@@ -1,0 +1,18 @@
+# Heading 1
+** LUSI PADMAWATI - 175610045**
+** PRAKTIKUM TEKNOLOGI CLOUD COMPUTING**
+===============================================
+## Heading2
+LATIHAN 1
+-----------------------------------------------
+Instalasi Git dan Menggunakan Git Bash
+1. jika git sduah terinstal di pc maka tampilan git bash akan seperti dibawah ini 
+![gambar git bash](C:\gitbash.png)
+2. Dan dibawah ini tampilan dari Git Gui
+![gambar git gui](C:\gitgui.png)
+3. mencoba git dari command prompt
+![gambar cmd](gitcmd.png)
+LATIHAN 2 KONFIGURASI GIT
+dengan perintah $ git config --global user.name "lusipadma84"
+$ git config --global user.email lusiklaten1234@gmail.com
+![gambar konfigurasi](C:\konfigurasi.png)
